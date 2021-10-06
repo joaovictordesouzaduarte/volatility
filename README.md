@@ -2,5 +2,5 @@
 
 ### Objective
 
-The main purpose of this repository is to estimate and predict the volatiliy of brazilian exchange rate (USD x BRL) using both Garch and EGarch models.
+The main purpose of this repository is to estimate and predict the volatiliy of brazilian exchange rate (USD x BRL) using both Garch model.
 
